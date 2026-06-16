@@ -157,7 +157,7 @@ Expected output:
 
 ```
 === MF30 Flow Sensor (GPIO32) ===
-4.06 mA   3.8 NL/min
+4.06 mA   0 NL/min
 6.12 mA   132.8 NL/min
 ...
 ```
